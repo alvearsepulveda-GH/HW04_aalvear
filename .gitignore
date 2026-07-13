@@ -2,6 +2,8 @@
 data/raw/*
 data/processed/*
 !data/raw/.gitkeep
+!data/raw/hw05_sector_close.csv
+!data/raw/hw05_spy_close.csv
 !data/processed/.gitkeep
 models/**/*.pkl
 models/**/*.joblib
@@ -35,6 +37,7 @@ Thumbs.db
 # Outputs temporales
 *.log
 mlruns/
+.tmp_mpl/
 
 # Respaldo local
 _legacy/
