@@ -1,0 +1,7 @@
+Pregunta,Respuesta
+¿Fases económicamente razonables?,"Sí, con cautela: PC1 explica 54.6% y sus cargas tienen dirección económica coherente."
+¿Mejor que persistencia?,Sí: Macro F1 0.542 vs 0.092.
+Variable más influyente,Revenue_YoY
+Estado con menor recall,Contracción
+Uso propuesto,Alerta temprana para activar revisión financiera y operacional humana.
+Limitación principal,Solo 48 trimestres y un target dependiente del PCA.

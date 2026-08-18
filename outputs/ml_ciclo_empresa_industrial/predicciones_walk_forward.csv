@@ -1,0 +1,23 @@
+Origin_t,Target_t_plus_1,Actual,Baseline Persistencia,Baseline Mayoritaria,N_train,PC1_variance_fold,Logistic Regression,Random Forest,Gradient Boosting
+2020-06-30,2020-09-30,Recuperación,Contracción,Desaceleración,20,0.5575293662465651,Recuperación,Recuperación,Recuperación
+2020-09-30,2020-12-31,Expansión,Recuperación,Contracción,21,0.522423608424431,Contracción,Contracción,Contracción
+2020-12-31,2021-03-31,Desaceleración,Expansión,Expansión,22,0.5096961731901066,Expansión,Desaceleración,Desaceleración
+2021-03-31,2021-06-30,Expansión,Desaceleración,Expansión,23,0.5069928777101923,Expansión,Expansión,Expansión
+2021-06-30,2021-09-30,Desaceleración,Expansión,Contracción,24,0.535491725350787,Desaceleración,Desaceleración,Desaceleración
+2021-09-30,2021-12-31,Desaceleración,Desaceleración,Contracción,25,0.5391240530032565,Desaceleración,Desaceleración,Desaceleración
+2021-12-31,2022-03-31,Expansión,Desaceleración,Contracción,26,0.5420336514041749,Desaceleración,Desaceleración,Desaceleración
+2022-03-31,2022-06-30,Expansión,Expansión,Contracción,27,0.5398861373314817,Expansión,Expansión,Expansión
+2022-06-30,2022-09-30,Desaceleración,Expansión,Contracción,28,0.5590514702411241,Desaceleración,Desaceleración,Desaceleración
+2022-09-30,2022-12-31,Expansión,Desaceleración,Contracción,29,0.5639470043113102,Desaceleración,Desaceleración,Desaceleración
+2022-12-31,2023-03-31,Desaceleración,Expansión,Contracción,30,0.574938300477077,Desaceleración,Desaceleración,Desaceleración
+2023-03-31,2023-06-30,Expansión,Desaceleración,Contracción,31,0.5575206333255003,Expansión,Expansión,Expansión
+2023-06-30,2023-09-30,Desaceleración,Expansión,Expansión,32,0.5680127772268276,Desaceleración,Desaceleración,Desaceleración
+2023-09-30,2023-12-31,Contracción,Desaceleración,Expansión,33,0.5651052197045041,Expansión,Expansión,Expansión
+2023-12-31,2024-03-31,Expansión,Contracción,Contracción,34,0.5651871199638819,Contracción,Contracción,Contracción
+2024-03-31,2024-06-30,Expansión,Expansión,Expansión,35,0.5633931366143734,Expansión,Contracción,Contracción
+2024-06-30,2024-09-30,Contracción,Expansión,Expansión,36,0.5621188392702052,Desaceleración,Desaceleración,Desaceleración
+2024-09-30,2024-12-31,Expansión,Contracción,Contracción,37,0.5615442850064059,Expansión,Expansión,Expansión
+2024-12-31,2025-03-31,Contracción,Expansión,Expansión,38,0.5615032313349514,Expansión,Expansión,Expansión
+2025-03-31,2025-06-30,Recuperación,Contracción,Contracción,39,0.5565336437148662,Expansión,Contracción,Contracción
+2025-06-30,2025-09-30,Expansión,Recuperación,Contracción,40,0.5483974279828623,Contracción,Contracción,Recuperación
+2025-09-30,2025-12-31,Contracción,Expansión,Expansión,41,0.546212073126287,Contracción,Contracción,Contracción

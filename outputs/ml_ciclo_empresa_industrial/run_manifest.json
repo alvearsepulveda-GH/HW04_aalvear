@@ -1,0 +1,23 @@
+{
+  "data_source": "data/raw/finning_dataset_trimestral_real_2014_2025.xlsx",
+  "source_sheet": "Finning_Quarterly",
+  "as_of": "2025-12-31",
+  "n_quarters": 48,
+  "n_walk_forward_predictions": 22,
+  "pca_features": [
+    "Revenue_YoY",
+    "Revenue_QoQ",
+    "Net_Margin"
+  ],
+  "model_features": [
+    "Revenue_YoY",
+    "Revenue_QoQ",
+    "Revenue_Momentum",
+    "Net_Margin",
+    "Net_Margin_YoY_Change",
+    "Revenue_vs_MA4"
+  ],
+  "protagonist": "Random Forest",
+  "beats_persistence": true,
+  "random_state": 42
+}
